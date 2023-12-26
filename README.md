@@ -1,7 +1,7 @@
 Hi 👋 I am Sude Nur
 =========================
 
-A passionate junior frontend developer and sophomore computer engineering student from Turkey.
+A passionate junior frontend developer and junior computer engineering student from Turkey.
 <br>My goal is to learn new skills about programming.
 
 * 🌱  I'm currently learning <b>react</b>
