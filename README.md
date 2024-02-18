@@ -4,7 +4,6 @@ Hi 👋 I am Sude Nur
 A passionate junior frontend developer and junior computer engineering student from Turkey.
 <br>My goal is to learn new skills about programming.
 
-* 🌱  I'm currently learning <b>react</b>
 * 📫  How to reach me <b>sudenur.glcn</b>[at]<b>gmail</b>[dot]<b>com</b>
 * 🤝  I’m currently open for: An <b>Intern role</b> or <b>new job</b> opportunity.
 
