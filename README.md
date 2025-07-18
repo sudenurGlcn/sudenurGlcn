@@ -1,12 +1,18 @@
 Hi 👋 I am Sude Nur
 =========================
 
-I am a senior computer engineering student from Turkey, passionate about both Artificial Intelligence and web development. I have hands-on experience with technologies like React.js, .NET Core, Python, JavaScript, and HTML/CSS. While my background is in web programming, I am now focusing on expanding my knowledge in AI. My goal is to continuously learn, improve my skills, and apply AI concepts to real-world challenges.
 
-<br>My goal is to learn new skills about programming.
+🎓 I’m a Computer Engineering graduate from Turkey with a strong passion for **Artificial Intelligence** and **web development**.
 
-* 📫  How to reach me <b>sudenur.glcn</b>[at]<b>gmail</b>[dot]<b>com</b>
-* 🤝  I’m currently open for: An <b>Intern role</b> or <b>new job</b> opportunity.
+🛠️ I have hands-on experience with technologies such as **React.js**, **.NET Core**, **Python**, **JavaScript**, and **HTML/CSS**.
+
+🤖 While my background is rooted in full-stack web development, I’m currently focusing on building **intelligent systems** using **machine learning** and **deep learning** techniques.
+
+🚀 My goal is to continuously grow as an engineer and develop **AI-powered solutions** that address real-world problems.
+
+---
+
+📫 **Feel free to explore my repositories or connect with me!**
 
 ### Skills
 
